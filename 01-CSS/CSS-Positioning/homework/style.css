@@ -1,0 +1,29 @@
+.contenedor {
+
+
+position: relative;
+display: flex;
+flex-direction: column;
+
+
+}
+header{
+background-color: darkkhaki;
+
+}
+nav{
+    background-color: darkorange;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    background-color: darkseagreen;
+    display: flex;
+    justify-content: space-evenly;
+}
+footer{
+    text-align: center;
+    background-color: darkturquoise;
+}
